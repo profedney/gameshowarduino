@@ -1,6 +1,7 @@
 /*
 Código C++
 Programa Arduino Game perguntas e respostas
+prof. Edney Rossi
 
 Esquema:
 D13---Saida led1
